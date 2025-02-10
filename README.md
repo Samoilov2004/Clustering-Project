@@ -8,7 +8,7 @@
 
 ## Используемые в работе технологии
 
-- **[Python](https://www.python.org/)** (версия 3.10.0)
+- **[Python](https://www.python.org/)** (версия 3.13.1)
 - **[NumPy](https://pypi.org/project/numpy/)** (версия 1.23.0)
 - **[Pandas](https://pypi.org/project/pandas/)** (версия 1.4.3)
 - **[Matplotlib](https://pypi.org/project/matplotlib/)** (версия 3.5.2)
